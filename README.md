@@ -1,4 +1,4 @@
-![ Hi, my name is Yaroslav✋]
+[ Hi, my name is Yaroslav✋]
 ![Profile views](https://komarev.com/ghpvc/?username=Yaroslav-K-V&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
